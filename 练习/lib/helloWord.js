@@ -3,4 +3,4 @@
  */
 //alert("hello yanglei");
 //document.write("<p>My First JavaScript</p>");
-document.getElementById("p1").innerText="this is changed value";
+document.getElementById("p1").innerText="this is changed value by code";
